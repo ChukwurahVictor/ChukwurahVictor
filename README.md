@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I am a fullstack developer
-<!-- - 🌱 I am currently learning -->
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/victor-chukwurah/), Email: chukwurahvictor7@gmail.com
 - 😄 Pronouns: He/Him
+<!-- - 🌱 I am currently learning -->
 
 
 
